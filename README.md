@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I'm currently working to make my portfolio website
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with web development projects
+🥅 2021 Goals: Get a full time job as a web developer
+⚡ Fun fact: I love to read and playing games
+💬 Ask me about anything, I am happy to help;
+📫 How to reach me: hollowsamff@aol.com;
+
+Connect with me:
+
 <!--
 **hollowsamff/hollowsamff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
