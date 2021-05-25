@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working to make my portfolio website
+🔭 I'm currently working to make my portfolio website<br><br>
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with web development projects
 🥅 2021 Goals: Get a full time job as a web developer
