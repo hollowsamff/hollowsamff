@@ -77,8 +77,8 @@
       Skills
    </h2>
    <p> 
-      <a target="_blank" rel="noopener noreferrer" href=""><img src="https://samfranciswebdeveloper.com/external/img/aspskillicon.png" alt="" height="70" style="max-width:100%;"></a>
-       <a target="_blank" rel="noopener noreferrer" href=""><img src="https://samfranciswebdeveloper.com/external/img/javasciptskillicon.png" alt="" height="70" style="max-width:100%;"></a>
+      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://samfranciswebdeveloper.com/external/img/aspskillicon.png" alt="" height="70" style="max-width:100%;"></a>
+       <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://samfranciswebdeveloper.com/external/img/javasciptskillicon.png" alt="" height="70" style="max-width:100%;"></a>
    
    </p>
    <h3>
@@ -90,8 +90,8 @@
       Development tools and frameworks:
    </h3>
    <p>
-      <a target="_blank" rel="noopener noreferrer" href=""><img src="https://samfranciswebdeveloper.com/external/img/htmlskillicon.png" alt="html5" width="50" height="60" style="max-width:100%;"></a> 
-     <a target="_blank" rel="noopener noreferrer" href=""><img src="https://samfranciswebdeveloper.com/external/img/cssskillicon.png" alt="html5" width="50" height="60" style="max-width:100%;"></a> 
+      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://samfranciswebdeveloper.com/external/img/htmlskillicon.png" alt="html5" width="50" height="60" style="max-width:100%;"></a> 
+     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://samfranciswebdeveloper.com/external/img/cssskillicon.png" alt="html5" width="50" height="60" style="max-width:100%;"></a> 
    </p>
 </article>
 
