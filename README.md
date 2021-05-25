@@ -6,7 +6,8 @@
 🥅 2021 Goals: Get a full time job as a web developer<br>
 ⚡ Fun fact: I love to reading and playing games<br>
 💬 Ask me about anything, I am happy to help;<br>
-📫 How to reach me: hollowsamff@aol.com;<br>
+📫 How to reach me:
+<br>hollowsamff@aol.com;<br>
 
 <!--
 Connect with me:
