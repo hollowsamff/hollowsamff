@@ -45,7 +45,7 @@
       </li>
       <li>
          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
-         Fun fact: I love to read and playing games
+         Fun fact: I love to reading and playing games
       </li>
       <li>
          <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
