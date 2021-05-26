@@ -68,6 +68,12 @@
    <p align="center">
       <a href="https://www.linkedin.com/in/sam-francis-4565ba132/" rel="nofollow"><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>
    </p>
+   <p align="center">
+   <a href="https://www.codewars.com/users/hollowsamff" target="_blank">
+ <img style="display: block;margin-left: auto;margin-right: auto; padding:5px;" class="img-responsive" height="50" src="https://www.codewars.com/users/hollowsamff/badges/small" alt="Sam Francis image">
+ </a>
+   </p>
+   
    <h2>
       <a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills">
          <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
